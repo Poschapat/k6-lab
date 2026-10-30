@@ -20,4 +20,8 @@
 - Step 0.5, :
 ![alt text](image-4.png)
 
-
+- Step 0.6, exit code of the normal run and of the run with P95=300:
+    * exit code of the normal run: 0
+    ![alt text](image-5.png)
+    * run with P95=300: 99
+    ![alt text](image-6.png)
