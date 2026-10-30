@@ -41,3 +41,7 @@
     * what was wrong:
     The exclusion names are case-sensitive; I sent lowercase pepperoni/knife but the API uses Pepperoni/Knife, so the filters were ignored. Checks under load found it because the recommendation is random: a single manual request may happen to return a pizza without pepperoni and not needing a knife, but over many requests the wrong pizzas appear with a visible failure rate.
     ![alt text](image-14.png)
+
+## Part A results
+- Step A1:
+![alt text](image-15.png)
