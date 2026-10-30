@@ -25,3 +25,12 @@
     ![alt text](image-5.png)
     * run with P95=300: 99
     ![alt text](image-6.png)
+
+- Step 0.7, rules that passed, p(95), p(99), exit code after your change:
+    * rules that passed: 
+    ![alt text](image-7.png)
+    ![alt text](image-9.png)
+    * exit code after change: 99
+    ![alt text](image-10.png)
+    ![alt text](image-12.png)
+    ![alt text](image-11.png)
